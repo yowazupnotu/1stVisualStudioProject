@@ -1,0 +1,16 @@
+var console_title="My First Console Project";
+console.log(console_title);
+var firstname="Paritosh";
+var lastname="Mehta";
+var fullname=firstname.concat(lastname);
+console.log(fullname);
+var number="Number = 9";
+console.log(number);
+var numberx3="Number x 3 = 27";
+console.log(numberx3);
+var numberd3="Number / 3 = 3";
+console.log(numberd3);
+var numberm3="Number - 3 = 6";
+console.log(numberm3);
+var numberp3="Number + 3 = 12";
+console.log(numberp3);
